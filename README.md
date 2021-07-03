@@ -1,1 +1,1 @@
-# discord-bot coming soon
+# discord-bot example 
